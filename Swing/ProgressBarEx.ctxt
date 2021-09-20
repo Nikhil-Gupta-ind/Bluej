@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ProgressBarEx
+comment1.params=
+comment1.target=ProgressBarEx()
+comment2.params=
+comment2.target=void\ iterate()
+comment3.params=ar
+comment3.target=void\ main(java.lang.String[])
+numComments=4

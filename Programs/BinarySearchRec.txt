@@ -1,0 +1,74 @@
+
+/**
+ * Write a description of class BinarySearchRec here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class BinarySearchRec
+{
+    public static final int NOT_FOUND=-1;
+    public static int binarySearch(Integer a[],int x)
+    {
+        return binarySearch(a,x,0,a.length-1);
+    }
+    private static int binarySearch(Integer a[],int x,int low,int high)
+    {
+        if(low>high)
+            return NOT_FOUND;
+        
+        int mid=(low+high)/2;
+        if(a[mid].compareTo(x)<0)
+            return binarySearch(a,x,mid+1,high);
+        
+        else if(a[mid].compareTo(x)>0)
+            return binarySearch(a,x,low,mid-1);
+            
+        else
+            return mid;
+    }
+    public static void printResult(int r,int i)
+    {
+        if(r!=-1)
+        System.out.println("Found"+i+"at index"+r+"i.e.,position"+(r+1));
+        else
+        System.out.println("Sorry the element"+i+"doesn't exist in the array");
+    }
+    public static void main()
+    {
+        int SIZE=8,i;
+        Integer a[]=new Integer[SIZE];
+        System.out.println("The array taken is :");
+        for(int i=0;i<SIZE;i++)
+        {
+            a[i]=new Integer(i*2);
+            System.out.print(a[i]+" ");
+        }
+        System.out.println();
+        int result;
+        System.out.println("\nSearching For 10");
+        i=10;
+        result=binarySearch(a,new Integer(i));
+        PrintResult(result,i);
+        
+        System.out.println("\n searching for 5");
+        i=5;
+        result=binarySearch(a,new Integer(i));
+        PrintResult(result,i);
+        
+        System.out.println("\n searching for 14");
+        i=14;
+        result=binarySearch(a,new Integer(i));
+        PrintResult(result,i);
+        
+        System.out.println("\n searching for 2");
+        i=2;
+        result=binarySearch(a,new Integer(i));
+        PrintResult(result,i);
+        
+        System.out.println("\n searching for 22");
+        i=22;
+        result=binarySearch(a,new Integer(i));
+        PrintResult(result,i);
+    }
+}

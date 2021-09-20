@@ -1,0 +1,62 @@
+//this class is used to test the statements
+/**
+ * Write a description of class Temp here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+import java.util.Scanner;
+public class Temp
+{
+    public static void main(int n)
+    {
+        int d;//no. of digits of n
+        if((n/1000)>1)
+        {
+            d=4;
+        }
+        else if((n/100)>1)
+        {
+            d=3;
+        }
+        else if((n/10)>1)
+        {
+            d=2;
+        }
+        else
+        {
+            d=1;
+        }
+        int num=n*n;
+        int RHP=0,LHP=0;
+        if(d==4)
+        {
+            RHP=num%10000;
+            LHP=num/10000;
+        }
+        else if(d==3)
+        {
+            RHP=num%1000;
+            LHP=num/1000;
+        }
+        else if(d==2)
+        {
+            RHP=num%100;
+            LHP=num/100;
+        }
+        else
+        {
+            RHP=num%10;
+            LHP=num/10;
+        }
+        
+        if(RHP+LHP==n)
+        {
+            System.out.println("Yes, its Kaprekar");
+        }
+        else
+        {
+            System.out.println("No,its Not");
+        }
+    }
+}

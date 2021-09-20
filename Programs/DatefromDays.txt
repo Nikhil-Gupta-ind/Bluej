@@ -1,0 +1,71 @@
+/**
+ * Write a description of class Programm1 here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+import java.util.Scanner;
+public class DatefromDays
+{
+    public static void main()
+    {
+        Scanner sc=new Scanner(System.in);
+        int a,b;
+        String arr1[]={"Jan","Feb","Mar","April","May","Jun","July","Aug","Sep","Oct","Nov","Dec"};
+        int arr2[]={31,28,31,30,31,30,31,31,30,31,30,31};
+        int i=1;
+        int dd,mm,count=0;
+        System.out.println("Enter year :");
+        int y=sc.nextInt();//also limit year pls.
+        int yy=0;
+        if(y>1000&&y<9999)
+        {
+            yy=y;
+        }
+        System.out.println("Enter No. of days");
+        a=sc.nextInt();
+        int temp=a;
+        if(yy%4!=0)
+        {
+            arr2[1]=29;
+        }
+        for(i=0;i<=11;i++)
+        {
+            a=a-arr2[i];
+            count++;
+            if(a<=31)
+            {
+                break;
+            }
+        }
+        System.out.println("Date :"+a+" "+arr1[count]);
+        System.out.println("Enter the no. of days postponded");
+        b=sc.nextInt();
+        count=0;
+        temp=temp+b;
+        if(yy%4!=0)
+        {
+            if(temp>=366)
+            {
+                temp=b;
+            }
+        }
+        else
+        {
+            if(temp>=365)
+            {
+                temp=b;
+            }
+        }
+        for(int j=0;j<=11;j++)
+        {
+            temp=temp-arr2[j];
+            count++;
+            if(temp<=31)
+            {
+                break;
+            }
+        }
+        System.out.println("Date :"+temp+" "+arr1[count]);
+    }
+}

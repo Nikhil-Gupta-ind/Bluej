@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EncoAndDeco
+comment1.params=Val
+comment1.target=int\ BiToDeci(int)
+comment2.params=Val
+comment2.target=java.lang.String\ DeciToBi(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

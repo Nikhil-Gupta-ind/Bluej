@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=AEvent2
+comment1.params=obj
+comment1.target=Outer(AEvent2)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=AEvent2()
+comment4.params=ar
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,75 @@
+//This programm displays corresponding date of any day in a year
+import java.io.*;
+class Date2
+{
+    public static void main(String args[])throws IOException
+    {
+        InputStreamReader objISR=new InputStreamReader(System.in);
+        BufferedReader objBR=new BufferedReader(objISR);
+        System.out.println("Enter a day which lie in a year");
+        int day=Integer.parseInt(objBR.readLine());
+        String month="";
+        int date=0;
+        if(day>=1&&day<=31)
+        {
+            month="January";
+            date=day;
+        }
+        else if(day>=32&&day<=59)
+        {
+            month="February";
+            date=day-32;
+        }
+        else if(day>=60&&day<=90)
+        {
+            month="March";
+            date=day-60;
+        }
+        else if(day>=91&&day<=120)
+        {
+            month="April";
+            date=day-91;
+        }
+        else if(day>=121&&day<=151)
+        {
+            month="May";
+            date=day-121;
+        }
+        else if(day>=152&&day<=181)
+        {
+            month="June";
+            date=day-152;
+        }
+        else if(day>=182&&day<=212)
+        {
+            month="July";
+            date=day-182;
+        }
+        else if(day>=213&&day<=243)
+        {
+            month="August";
+            date=day-213;
+        }
+        else if(day>=244&&day<=273)
+        {
+            month="September";
+            date=day-244;
+        }
+        else if(day>=274&&day<=304)
+        {
+            month="October";
+            date=day-274;
+        }
+        else if(day>=305&&day<=334)
+        {
+            month="November";
+            date=day-305;
+        }
+        else if(day>=335&&day<=365)
+        {
+            month="December";
+            date=day-335;
+        }
+        System.out.println(date+" "+month);
+    }
+}

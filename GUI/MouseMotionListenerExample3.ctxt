@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MouseMotionListenerExample3
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ a\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MouseMotionListenerExample3()
+comment2.params=me
+comment2.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment3.params=me
+comment3.target=void\ mouseMoved(java.awt.event.MouseEvent)
+comment4.params=ar
+comment4.target=void\ main(java.lang.String[])
+numComments=5
