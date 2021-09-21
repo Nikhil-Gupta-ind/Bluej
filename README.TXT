@@ -1,12 +1,16 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This project includes a huge bundle of codes that I wrote under guidance
+of my Xavier's school teacher in Bluej IDE as a beginner.
+Nothing is copied from aywhere else but a piece of either mine of my
+teacher's intellectual logic created on the spot. All this helped me get
+hands-on experiece and cover a distance in journey with java.
+This also includes some packages that includes programms that self learned
+later.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:NIKHIL GUPTA
-USER INSTRUCTIONS:
+PROJECT TITLE: Journey with Java
+PURPOSE OF PROJECT: Get hands on experience in java programming
+VERSION or DATE: 2.0 (started 2017)
+HOW TO START THIS PROJECT: This whole project can be opened in any IDE.
+AUTHORS: NIKHIL GUPTA (Xavier's Chandigarh)
+USER INSTRUCTIONS: Bluej(Recomended) to get the original view.
