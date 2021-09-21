@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 This project includes a huge bundle of codes that I wrote under guidance
-of my Xavier's school teacher in Bluej IDE as a beginner.
+of Amanjot Sir using Bluej IDE as a beginner in Xavier's Chandigarh.
 Nothing is copied from aywhere else but a piece of either mine of my
 teacher's intellectual logic created on the spot. All this helped me get
 hands-on experiece and cover a distance in journey with java.
