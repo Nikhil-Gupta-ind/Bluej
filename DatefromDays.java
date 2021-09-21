@@ -1,7 +1,7 @@
 /**
  * Write a description of class Programm1 here.
  * 
- * @author (your name) 
+ * @author Nikhil Gupta ©2018-21
  * @version (a version number or a date)
  */
 import java.util.Scanner;

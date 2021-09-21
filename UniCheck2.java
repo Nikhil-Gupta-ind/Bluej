@@ -2,7 +2,7 @@
  * Write a description of class UniCheck2 here.
  * Programm to check wether the number is unique.
  * The Number is unique if any of its digit is repeated in it.
- * @author Nikhil Gupta
+ * @author Nikhil Gupta ©2018-21
  * @version 2.0
  */
 import java.util.Scanner;

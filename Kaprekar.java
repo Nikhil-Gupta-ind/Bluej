@@ -1,8 +1,8 @@
 
 /**
  * Write a description of class Kaprekar here.
- * 
- * @author (your name) 
+ * Karprekar
+ * @author Nikhil Gupta ©2018-21
  * @version (a version number or a date)
  */
 import java.util.Scanner;

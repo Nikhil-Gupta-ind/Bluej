@@ -1,7 +1,7 @@
 /**
  * Write a description of class DecimToBi here.
- * 
- * @author (your name) 
+ * Decimal to Binary
+ * @author Nikhil Gupta ©2018-21
  * @version (a version number or a date)
  */
 import java.util.Scanner;

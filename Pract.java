@@ -1,7 +1,7 @@
 /**
  * Write a description of class Pract here.
  * 
- * @author Nikhil Gupta
+ * @author Nikhil Gupta ©2018-21
  * @version 0.1
  */
 import java.util.Scanner;

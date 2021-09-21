@@ -1,3 +1,9 @@
+/**
+ * Write a description of class Ex here.
+ * 
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 import java.util.*;
 import java.io.*;
 class Ex

@@ -1,7 +1,7 @@
 /**
  * Write a description of class DMat here.
  * This programm finds row and column number of the smallest value present in the Matrix 
- * @author Nikhil Gupta
+ * @author Nikhil Gupta ©2017-21
  * @version beta 1.0
  */
 import java.util.Scanner;

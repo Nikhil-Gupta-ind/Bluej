@@ -1,7 +1,7 @@
 /**
  * Write a description of class Spiral here.
  * A Programm to print the Matrix contaning the accending in a Spiral
- * @author (your name) 
+ * @author Nikhil Gupta ©2018-21
  * @version (a version number or a date)
  */
 import java.util.Scanner;

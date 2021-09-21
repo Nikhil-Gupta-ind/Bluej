@@ -1,7 +1,7 @@
 /**
- * Write a description of class PallindromeI here.
+ * Write a description of class Pallindrome_I here.
  * 
- * @author (your name) 
+ * @author Nikhil Gupta ©2017-21
  * @version (a version number or a date)
  */
 import java.util.Scanner;

@@ -1,3 +1,9 @@
+/**
+ * Write a description of class Count here.
+ * 
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 //Programm
 import java.io.*;
 public class Count

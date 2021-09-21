@@ -2,7 +2,7 @@
 /**
  * Write a description of class Fibonacci here.
  * 
- * @author (your name) 
+ * @author Nikhil Gupta ©2017-21
  * @version (a version number or a date)
  */
 public class Fibonacci

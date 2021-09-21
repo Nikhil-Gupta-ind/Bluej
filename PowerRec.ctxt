@@ -1,6 +1,7 @@
 #BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-comment1.params=m\ n
-comment1.target=long\ pow(long,\ long)
-numComments=2
+comment0.target=PowerRec
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m\ n
+comment2.target=long\ pow(long,\ long)
+numComments=3

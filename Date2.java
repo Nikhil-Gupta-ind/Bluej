@@ -1,4 +1,9 @@
-//This programm displays corresponding date of any day in a year
+/**
+ * Write a description of class Date2 here.
+ * This programm displays corresponding date of any day in a year
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 import java.io.*;
 class Date2
 {

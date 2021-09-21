@@ -1,3 +1,9 @@
+/**
+ * Write a description of class
+ * 
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 class Series2
 {
     public static void main(String args[])

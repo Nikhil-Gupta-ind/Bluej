@@ -1,4 +1,9 @@
-//This Programm tranposes the given Matrix
+/**
+ * Write a description of class TrasMat here.
+ * This Programm tranposes the given Matrix
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 import java.util.Scanner;
 public class TrasMat
 {

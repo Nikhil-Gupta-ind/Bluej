@@ -1,4 +1,9 @@
-//Programm to check resultant sum of digits is 1 from 1 to 1000
+/**
+ * Write a description of class SumOne here.
+ * Programm to check resultant sum of digits is 1 from 1 to 1000
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 public class SumOne
 {
     static int a;

@@ -1,3 +1,9 @@
+/**
+ * Write a description of class DeciToBi here.
+ * Decimal to Binary
+ * @author Nikhil Gupta ©2018-21
+ * @version (a version number or a date)
+ */
 import java.util.Scanner;
 public class DeciToBi
 {

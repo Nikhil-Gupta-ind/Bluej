@@ -1,4 +1,9 @@
-//this program finds the wovel in each word and prints the rest of word followed by the wovel alphabet from begning
+/**
+ * Description of class Simple here:
+ * This program finds the wovel in each word and prints the rest of word followed by the wovel alphabet from begning
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 import java.util.Scanner;
 class Simple
 {

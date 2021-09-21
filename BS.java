@@ -1,3 +1,9 @@
+/**
+ * Write a description of class BS here.
+ * Binary Search Technique
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 import java.util.Scanner;
 public class BS
 {

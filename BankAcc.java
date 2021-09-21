@@ -1,7 +1,7 @@
 /**
  * Write a description of class BankAcc here.
  * 
- * @author (your name) 
+ * @author Nikhil Gupta ©2018-21
  * @version (a version number or a date)
  */
 public class BankAcc

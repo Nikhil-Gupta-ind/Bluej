@@ -1,3 +1,9 @@
+/**
+ * Write a description of class FibonacciSeries here.
+ * 
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 class FibonacciSeries
 {
     public static void main(String args[])

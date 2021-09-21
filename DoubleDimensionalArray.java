@@ -1,4 +1,9 @@
-//Programm to find the sum of numbers present in double dimensional array
+/**
+ * Description of class DoubleDimensional here:
+ * Programm to find the sum of numbers present in double dimensional array
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 import java.util.Scanner;
 class DoubleDimensionalArray
 {

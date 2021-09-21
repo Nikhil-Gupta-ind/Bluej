@@ -1,4 +1,9 @@
-//Programm to find the highest number of vowel in the word in a sentemce
+/**
+ * Write a description of class NoVowel here.
+ * Programm to find the highest number of vowel in the word in a sentemce
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 import java.util.Scanner;
 class NoVowel
 {

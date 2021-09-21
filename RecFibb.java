@@ -1,7 +1,7 @@
 /**
  * Write a description of class RecFibb here.
  * Write a recursive function for printing fibbonacci series upto 10 terms.
- * @author Nikhil
+ * @author Nikhil Gupta ©2018-21
  * @version 2.0
  */
 public class RecFibb

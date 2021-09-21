@@ -2,7 +2,7 @@
 /**
  * Write a description of class Anagram2 here.
  * Anagram
- * @author NIKHIL GUPTA 
+ * @author NIKHIL GUPTA ©2018-21
  * @version 2.0
  */
 import java.io.*;

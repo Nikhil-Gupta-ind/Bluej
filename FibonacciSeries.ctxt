@@ -1,5 +1,6 @@
 #BlueJ class context
 comment0.target=FibonacciSeries
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FibonacciSeries\ here.\r\n\ \r\n\ @author\ Nikhil\ Gupta\ \u00A92017-21\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 numComments=2

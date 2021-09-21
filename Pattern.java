@@ -1,3 +1,10 @@
+
+/**
+ * Write a description of class Pattern here.
+ * 
+ * @author Nikhil Gupta ©2017-21
+ * @version (a version number or a date)
+ */
 public class Pattern
 {
     public static void main(String args[])
