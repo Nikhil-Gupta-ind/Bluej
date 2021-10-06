@@ -24,7 +24,7 @@ public class BS
             {
                 return mid;
             }
-            else if(val>arr[mid])
+                else if(val>arr[mid])
             {
                 iniI=mid+1;
             }

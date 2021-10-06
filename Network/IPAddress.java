@@ -1,6 +1,4 @@
 package Network;
-
-
 /**
  * Write a description of class v here.
  *
