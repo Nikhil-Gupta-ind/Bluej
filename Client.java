@@ -26,7 +26,7 @@ public class Client extends Frame implements ActionListener {
     DataInputStream dataInputStream;
     static String incomingMessage = "", outgoingMessage = "", chatUpdate="";
     public Client() {
-        Image icon = Toolkit.getDefaultToolkit().getImage("D:\\client.png");
+        Image icon = Toolkit.getDefaultToolkit().getImage("C:\\client_icon.png");
         setIconImage(icon);
         setTitle("CLIENT - by Nikhil Gupta");//also set input hints
         textFieldIP = new TextField();

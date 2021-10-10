@@ -27,9 +27,9 @@ public class Server extends Frame implements ActionListener{
     static String incomingMessage = "", outgoingMessage = "",chatUpdate="";
 
     public Server() {
-        Image icon = Toolkit.getDefaultToolkit().getImage("D:\\Home-Server-icon.png");
+        Image icon = Toolkit.getDefaultToolkit().getImage("C:\\home_server_icon.png");
         setIconImage(icon);
-        setTitle("SERVER Host -by Nikhil Gupta");
+        setTitle("SERVER Host - Nikhil Gupta ©2021-22");
         //set hint here for port
         textFieldPort = new TextField();
         port = new Label(": Port");
